@@ -1,3 +1,6 @@
+#Name: Benjamin Del Barrio
+#Email: Benjamin.delbarrio31@myhunter.cuny.edu
+
 import turtle
 t=turtle.Turtle()
 t.color('blue')
